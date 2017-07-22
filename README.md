@@ -14,8 +14,7 @@ Lesson 6 contains instruction on how to construct an app that displays images vi
 within a photo gallery setting.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://roweroo.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. The Browser Object Model contains Location objects, History Objects, Screen objects, Navigator Objects, Document objects, Window objects and Arrays.
