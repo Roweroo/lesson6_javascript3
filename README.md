@@ -4,19 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 21, 2017
 
 ### Student Name:  
-(First and Last Name)
+Linda Rowe
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 6 contains instruction on how to construct an app that displays images via user interaction,
+within a photo gallery setting.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The Browser Object Model contains Location objects, History Objects, Screen objects, Navigator Objects, Document objects, Window objects and Arrays.
+2. The Document Object Model is a map of sorts, which allows you to get around a web page using JavaScript.
+3. The DOM includes all the objects in a web page. Any element can be accessed in a DOM .
